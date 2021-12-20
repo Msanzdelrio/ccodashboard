@@ -45,16 +45,16 @@ The CCO Azure Governance Dashboard is aligned with the Microsoft Cloud Adoption 
 
 | API Name| Dashboard API Version | Last API version | Using latest version|
 | --- | :---: | :---: |:---: |
-| [Resource Groups](https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups)  |2019-05-01 |2019-05-01|:heavy_check_mark:|
-| [Azure Resources](https://docs.microsoft.com/en-us/rest/api/resources/resources)  |2019-05-01 |2019-05-01|:heavy_check_mark:|
+| [Resource Groups](https://docs.microsoft.com/en-us/rest/api/resources/resourcegroups)  |2021-04-01 |2021-04-01|:heavy_check_mark:|
+| [Azure Resources](https://docs.microsoft.com/en-us/rest/api/resources/resources)  |2021-04-01 |2021-04-01|:heavy_check_mark:|
 | [Azure Subscriptions](https://docs.microsoft.com/en-us/rest/api/resources/subscriptions)  |2020-01-01 |2020-01-01|:heavy_check_mark:|
 | [Azure Locations](https://docs.microsoft.com/en-us/rest/api/resources/subscriptions/listlocations)  |2019-05-01 |2019-05-01|:heavy_check_mark:|
 | [Azure Blueprints](https://docs.microsoft.com/en-us/rest/api/resources/subscriptions/listlocations)  |2018-11-01-preview |2018-11-01-preview|:heavy_check_mark:|
-| [Azure Policies](https://docs.microsoft.com/en-us/rest/api/resources/subscriptions/listlocations)  |2019-09-01 |2019-09-01|:heavy_check_mark:|
+| [Azure Policies](https://docs.microsoft.com/en-us/rest/api/resources/subscriptions/listlocations)  | 2021-06-01  | 2021-06-01 |:heavy_check_mark:|
 | [Azure Regulatory Compliances](https://docs.microsoft.com/en-us/rest/api/securitycenter/regulatorycompliancestandards)  |2019-01-01-preview |2019-01-01-preview|:heavy_check_mark:|
 | [Azure Assessments](https://docs.microsoft.com/en-us/rest/api/resources/subscriptions/listlocations)  |2020-01-01 |2020-01-01|:heavy_check_mark:|
 | [Azure Secure Scores](https://docs.microsoft.com/en-us/rest/api/securitycenter/securescores) |2020-01-01 |2020-01-01|:heavy_check_mark:|
-| [Azure Secure Scores Controls](https://docs.microsoft.com/en-us/rest/api/securitycenter/securescorecontrols) |2020-01-01-preview |2020-01-01-preview|:heavy_check_mark:|
+| [Azure Secure Scores Controls](https://docs.microsoft.com/en-us/rest/api/securitycenter/securescorecontrols) |2020-01-01 |2020-01-01|:heavy_check_mark:|
 
 <div style="text-align: justify">
 
